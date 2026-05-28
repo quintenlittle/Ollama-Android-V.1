@@ -214,6 +214,10 @@ The script will wait for the server to be ready, then launch your model automati
 
 ---
 
+![SCREENSHOT](SCREENSHOT.jpg)
+
+---
+
 ## Related
 
 - [Ollama-Linux-V.1](https://github.com/quintenlittle/Ollama-Linux-V.1) — Same setup guide for Linux
